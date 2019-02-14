@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kyleellman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kyleellman.com
+  * I am kyleellman (https://keybase.io/kyleellman) on keybase.
+  * I have a public key ASDbtjjYAO2e1vCJcMY8SVJFXxhDTYLjw8rXzLMXTwHg7Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dbb638d800ed9ed6f08970c63c4952455f18434d82e3c3cad7ccb3174f01e0ed0a",
+      "host": "keybase.io",
+      "kid": "0120dbb638d800ed9ed6f08970c63c4952455f18434d82e3c3cad7ccb3174f01e0ed0a",
+      "uid": "734a0160b9b43361f00beba73e854419",
+      "username": "kyleellman"
+    },
+    "merkle_root": {
+      "ctime": 1550167881,
+      "hash": "467e7bf1bbf411e6cf8af863ce728b872e702206878b62d02575235f90b5706082d2ff6e23617f5246c6cb2bd4b655ae9ec7de329a3a72753132a730380de01d",
+      "hash_meta": "4b513bd89c0f363c1338ba1bbb398f4c454634a6f9b2629ee599dac219cfad40",
+      "seqno": 4765842
+    },
+    "service": {
+      "entropy": "PB5oHBLuSNwxIbz8702g52V8",
+      "hostname": "kyleellman.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550167918,
+  "expire_in": 504576000,
+  "prev": "42574c77a322828d158cbae51400cfdc505cfbed1f98e334bb3106522bdb0526",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg27Y42ADtntbwiXDGPElSRV8YQ02C48PK18yzF08B4O0Kp3BheWxvYWTESpcCHMQgQldMd6Migo0VjLrlFADP3FBc++0fmOM0uzEGUivbBSbEIF0UVcI7N+japsy/vQSnfPqQNG2+D9gsS8mi54BjME5QAgHCo3NpZ8RAGuJFVz5W1W4CRcULAHleIdGLCJPssMXN7lDWmLG4Aull6aM9f1pSIjfnzQ4MO2rxP+8K4JqMnV3YcuuAzt7+A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAcObwKjs4dvmDzB1g+P5n0IY7Jsim1G+l4gdUdWB3Sjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kyleellman
+
+==================================================================
